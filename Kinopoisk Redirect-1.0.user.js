@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kinopoisk Redirect
 // @namespace    https://t.me/johannmosin
-// @version      1.0
+// @version      1.1
 // @description  Show a button on the page to redirect from kinopoisk.ru to C_X
 // @author       Johann Mosin
 // @match        https://www.kinopoisk.ru/*/*
